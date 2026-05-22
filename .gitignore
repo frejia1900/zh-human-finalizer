@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local environment
+.env
+.env.*
+*.local
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Temporary files
+tmp_*
+*.tmp
+
+# Build artifacts
+dist/
+build/
